@@ -44,6 +44,6 @@ A MySneaker é uma loja online fictícia de calçados que apresenta uma interfac
 ## 🔧 Como Rodar Localmente
 
 ```bash
-git clone https://github.com/mvpxp/mysneaker/master
-cd mysneaker/master
+git clone https://github.com/mvpxp/mysneaker/tree/master
+cd https://github.com/mvpxp/mysneaker/tree/master
 # abra o index.html no navegador
